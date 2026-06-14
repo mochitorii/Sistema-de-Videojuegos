@@ -17,29 +17,4 @@ Criterios de aceptación:
   - Comprar videojuegos.
   - Calcular total gastado.
 
-Pruebas de usuario:
-*Prueba 1*
-  Acción: Registrar videojuego.
-  Resultado esperado: Guardar videojuego.
-  Resultado obtenido: Videojuego guardado correctamente.
-  Cumple: Sí.
-
-*Prueba 2*
-  Acción: Registrar jugador.
-  Resultado esperado: Guardar jugador.
-  Resultado obtenido: Jugador guardado correctamente.
-  Cumple: Sí.
-
-*Prueba 3*
-  Acción: Comprar videojuego.
-  Resultado esperado: Agregar videojuego a biblioteca.
-  Resultado obtenido: Compra realizada correctamente.
-  Cumple: Sí.
-
-*Prueba 4*
-  Acción: Calcular dinero gastado.
-  Resultado esperado: Mostrar suma total.
-  Resultado obtenido: Total calculado correctamente.
-  Cumple: Sí.
-
 Aclaraciones: La base del sistema fue hecho por IA solo por requerimiento de una orientación, varias otras partes fueron extraidas de guías con revisiones de IA en pequeños errores.
