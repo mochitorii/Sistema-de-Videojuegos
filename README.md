@@ -17,4 +17,4 @@ Criterios de aceptación:
   - Comprar videojuegos.
   - Calcular total gastado.
 
-Aclaraciones: La base del sistema fue hecho por IA solo por requerimiento de una orientación, varias otras partes fueron extraidas de guías con revisiones de IA en pequeños errores.
+Aclaraciones: La base del sistema fue hecho por IA solo por requerimiento de una orientación, varias otras partes fueron extraidas de guías con revisiones de IA en pequeños errores, las pruebas de usuario fueron hechas con ayuda de la IA.
